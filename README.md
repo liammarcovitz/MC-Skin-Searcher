@@ -1,5 +1,5 @@
 # MC Skin Searcher
-<h4>Desktop app to fetch Minecraft skins by username.</h4>
+<h4><u>Desktop app to fetch Minecraft skins by username.</u></h4>
 <h4>Download Installer: <a href="https://drive.google.com/file/d/1GGlT8ClhtJpt9eToPfs1lFuOQ5yUa4lM/view?usp=sharing">1.1</a></h4>
 
 * View the skin of a player.
