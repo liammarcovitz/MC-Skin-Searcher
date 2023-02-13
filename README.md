@@ -1,6 +1,6 @@
 # MC Skin Searcher
 ### Desktop app to fetch Minecraft skins by username.
-## Download Latest Version Installer: <a href="https://drive.google.com/file/d/1GGlT8ClhtJpt9eToPfs1lFuOQ5yUa4lM/view?usp=sharing" target="_blank">1.1</a>
+## Download Latest Version: <a href="https://github.com/M1nordragon/MC-Skin-Searcher/releases/tag/1.1" target="_blank">1.1</a>
 
 * View the skin of a player.
 <img src="https://user-images.githubusercontent.com/67448347/213942875-f834089d-c970-44f3-ba1c-a61e36a4a50c.png" alt="Image1" width="500px"/>
